@@ -1,4 +1,4 @@
-# Age Checker Application
+# JavaScript Assignment No. 3: Conditional Statements (If-Else)💻🔄❓
 
 ## Description
 This project involves building a simple age-checking application using JavaScript. The goal is to categorize users based on their age: Child, Teenager, or Adult. The HTML and CSS files are already provided, and your task is to implement the logic using JavaScript with **if-else statements** to check the user's age and display the correct category. 
@@ -29,3 +29,10 @@ In this file, you will implement the `checkAge()` function. This function will:
     - **Adult**: If the age is 20 or greater, set the `category` variable to "Adult".
     - **Invalid Age**: If the age is a negative number or any other invalid input, set the `category` variable to "Invalid age. Please enter a valid number."
 
+### Tips: 
+- **Double-check Reference Links**: Ensure all reference links (e.g., images, stylesheets) are correct and accessible. 
+- **Input Validation**: Make sure your JavaScript code properly handles unexpected inputs (e.g., negative numbers or non-numeric characters). 
+- **Browser Compatibility**: Test your application on different browsers to ensure consistent performance. 
+- **Comment Your Code**: Add comments in your JavaScript code to explain what each part does. This will make it easier to understand and maintain. 
+- **Code Formatting**: Use consistent code formatting to enhance readability. Tools like Prettier can help with this.
+- **Testing**: Test your age-checking function thoroughly to ensure all edge cases are handled correctly.
