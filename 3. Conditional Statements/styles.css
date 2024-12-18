@@ -5,7 +5,7 @@
     font-family: 'Arial', sans-serif;
 }
 
-/* Body Styling */
+/* body styling */
 body {
     background-color: #f0f4f8; 
     display: flex;
@@ -15,7 +15,7 @@ body {
     color: #333;
 }
 
-/* Container Styling */
+/* container styling */
 .container {
     text-align: center;
     background-color: #ffffff; 
@@ -25,7 +25,7 @@ body {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
 }
 
-/* Heading Styling */
+/* heading styling */
 h1 {
     font-size: 30px;
     margin-bottom: 20px;
@@ -33,7 +33,7 @@ h1 {
     font-weight: 600;
 }
 
-/* Input Field Styling */
+/* input field styling */
 input[type="number"] {
     width: 80%;
     padding: 12px 20px;
@@ -52,7 +52,7 @@ input[type="number"]:focus {
     background-color: #e7e7e7;
 }
 
-/* Button Styling */
+/* button */
 button {
     padding: 12px 25px;
     background-color: #6c7c3b; 
@@ -74,7 +74,7 @@ button:active {
     transform: translateY(2px);
 }
 
-/* Result Message Styling */
+/* result */
 #result {
     font-size: 18px;
     margin-top: 20px;
