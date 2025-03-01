@@ -11,14 +11,12 @@
     <div class="game-container">
         <h1>Rock, Paper, Scissors</h1>
         
-        <!-- Scoreboard -->
         <div class="scoreboard">
             <p>Wins: <span id="wins">0</span></p>
             <p>Losses: <span id="losses">0</span></p>
             <p>Ties: <span id="ties">0</span></p>
         </div>
 
-        <!-- Display Choices with Circles -->
         <div class="game-result">
             <h2 id="result">Choose your weapon!</h2>
             <div class="weapon-used-container">
@@ -32,7 +30,6 @@
             </div>
         </div>
 
-        <!-- User's Choice -->
         <div class="choices">
             <div class="choice" id="rock">
                 <img src="./assets/images/icon-rock.png" alt="Rock" class="choice--img">
@@ -45,9 +42,10 @@
             </div>
         </div>
 
-        <!-- Start Button -->
-        <button id="startButton" disabled>Start Game</button>
-        <button id="resetButton">Reset Game</button>
+        <div class="game-controls">
+            <button id="startButton" disabled>Start Game</button>
+            <button id="resetButton">Reset Game</button>
+        </div>
     </div>
 
     <script src="app.js"></script>
